@@ -57,7 +57,7 @@ font-style: ;
 </p>
 
 <p class="comment">
-<b> Project Status </b> In progress
+<b> Project Status </b> Awaiting KAPE
 </p>
 
 <p class="comment">
@@ -73,4 +73,19 @@ After the project is implemented it will make: 1. payment of vendors and employe
 <p class="status">
 <b>27-04-2020</b>
 Currently we have been asked to complete two tasks by Danske Bank for them to create the account: 1) complete a Know your Customer (KYC) review and 2) fill out and sign a number of documents. The KYC review was resubmitted to Danske Bank because the Tax Complience Form had been filled out for JBH - they wanted one submitted for Panzerglass - and asked for a signed group structure incl. individual owners with more than 10% ownership of Panzerglass A/S. Regarding the second task: All documents have been signed, but before we can submit the applcation all individuals who have signed one or more documents have to be verified by our account manager at Danske Bank. Copies of passports or drivers licences have been sent to our account manager today such that he can create the requested statement. All documents can then be sent along with his statement via mail to Danske Bank London, and they should be able to open an account when they have verified the documentation.
+</p>
+
+<p class="status">
+<b>27-04-2020</b>
+All documents regarding the KYC has been submitted through Danske Banks District platform. We are awaiting a responce from them to close the task.
+</p>
+
+<p class="status">
+<b>28-04-2020</b>
+Our Danske Bank account manager - Jan Tholstrup Bomholdt - have signed all documents regarding verification of identities and addresses today. Next step is to mail the application to Danske Bank London via post, but before doing so Karsten Ehlig Petersen has promissed to look through the documents to verify that everything is correct - applying the four eyes principle, when he has done so the application will be posted.
+</p>
+
+<p class="status">
+<b>28-04-2020</b>
+Status updated to awaiting KAPE
 </p>
