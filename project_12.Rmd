@@ -62,25 +62,15 @@ font-style: ;
 
 <p class="comment">
 <b> Project Description </b>
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+This project aims to collect all banking agreements outside the markets that Danske Bank serves (Nordic + DE + UK + IE) in one new banking agreement to reduce banking cost, to lower the cost of enabling the Continia banking add-ins in NAV, to have requested banking services provided, to be able to enable a dual approval payment flow as we know from Danske Bank, to reduce amount of banking platforms to two (Danske Bank + the new bank), and to have a single account manager to contact when changes needs to be made to ensure a more quickly process of changes to the rendered services by the bank.
 </p>
 
 <p class="comment">
 <b> Project Goal </b>
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+One bank which provides a local currency account and a USD denomited account for all entities (Australia, China, Hong Kong, United Arab Emirates, Turkey, South Africa, Spain, Brazil and USA). Ability to issue credit cards from Australia, Hong Kong and United Arab Emirates and further the ability yo enable the service in other regions in the future. To be able to make all types of payments from all companies incl. but not limited to domestic payments, international payments, recurring payments, issueing cheques. To be able to look through all group accounts in one platform like Danske Banks District. To be able to able to export transactions preferably through webservice but otherwise as a .csv or .txt file format that can be used to import transactions into NAV. To be able to export credit card transactions to NAV and automatically asign transactions to users in expense management if enabled in NAV. To lower the total banking cost by hopefully being presented with a cost structure with lower transaction costs as a result of economies of scale by combining all subsidiaries in one banking agreement.
 </p>
 
 <p class="status">
-<b>20-04-2020</b>
-Procedure guidelines were e-mailed to Danja and the task of clearing open payments without bank fees are now completely handled by her in MENA and APAC, while open payments with bank fees continues to be handled by the regions accounts responsible employee. Accounts continue to handle clearing of payments when a remittance advice has been provided prior to the posting of the payment. Danja is furthermore responsible for clearing offsetting invoices and credit notes from now on. 
-</p>
-
-<p class="status">
-<b>21-04-2020</b>
-Jens Ove Henneberg stated that for Danja to be able to handle clearing of payment postings which have been posted incl. bank fees a new role has to be created by a NAV developer (Loucon) for Danja to take over the task.
-</p>
-
-<p class="status">
-<b>21-04-2020</b>
-Status updated to: <i>In queue with IT</i>
+<b>29-04-2020</b>
+Project created
 </p>
