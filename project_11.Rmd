@@ -57,7 +57,7 @@ font-style: ;
 </p>
 
 <p class="comment">
-<b> Project Status </b> Awaiting KAPE
+<b> Project Status </b> Awaiting MIPE
 </p>
 
 <p class="comment">
@@ -88,4 +88,14 @@ Our Danske Bank account manager - Jan Tholstrup Bomholdt - have signed all docum
 <p class="status">
 <b>28-04-2020</b>
 Status updated to awaiting KAPE
+</p>
+
+<p class="status">
+<b>29-04-2020</b>
+KArsten Ehlig Petersen has looked through the documents and approved them, besides opting in to the Danske Bank leasing module. The document has been modified to opting out of the leasing agreement. The documents has been handed over to Mikael Pedersen to post from the warehouse. He has promissed to send the letter with tracking. We will receive the tracking number once available.
+</p>
+
+<p class="status">
+<b>29-04-2020</b>
+Status updated to awaiting MIPE
 </p>
