@@ -57,7 +57,7 @@ font-style: ;
 </p>
 
 <p class="comment">
-<b> Project Status </b> Awaiting MIPE
+<b> Project Status </b> Awaiting Danske Bank
 </p>
 
 <p class="comment">
@@ -98,4 +98,14 @@ KArsten Ehlig Petersen has looked through the documents and approved them, besid
 <p class="status">
 <b>29-04-2020</b>
 Status updated to awaiting MIPE
+</p>
+
+<p class="status">
+<b>29-04-2020</b>
+The contract has been posted with DHL with tracking number 3887696422. The expected delivery date is tommorrow, 30-04-2020.
+</p>
+
+<p class="status">
+<b>29-04-2020</b>
+Status updated to awaiting Danske Bank
 </p>
